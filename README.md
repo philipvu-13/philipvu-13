@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**philipvu-13/philipvu-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Philip, a data analyst based in Mississippi.
 
-Here are some ideas to get you started:
+I enjoy designing and building projects around my interests: music, sports, business, and crypto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is:
+  - SQL (PostgreSQL)
+  - Python
+  - APIs & data pipelines
+  - Dashboards & data visualization
+  - Docker, Metabase, DBeaver
+
+I'm currently working on an analytics project exploring listener engagement and lyrical patterns from A$AP Rocky’s *Don’t Be Dumb* album using public APIs and SQL.
+
+### 📫 Get in touch
+- LinkedIn: www.linkedin.com/in/philipvu13
+- Email: philiphvu13@gmail.com
